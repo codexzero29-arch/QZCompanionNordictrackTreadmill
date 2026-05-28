@@ -1,4 +1,4 @@
-# QZCompanionNordictrackTreadmill
+# QZCompanionNordictrackTreadmill 
 Companion App of QZ for Nordictrack Treadmills & Bikes
 
 Reference: https://github.com/cagnulein/qdomyos-zwift/issues/815
